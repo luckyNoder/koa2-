@@ -1,0 +1,22 @@
+{
+    "name": "koa2-getting-starting",
+    "version": "1.0.0",
+    "description": "<font color=red size=2>1</font>",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/luckyNoder/koa2-getting-starting.git"
+    },
+    "author": "",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/luckyNoder/koa2-getting-starting/issues"
+    },
+    "homepage": "https://github.com/luckyNoder/koa2-getting-starting#readme",
+    "dependencies": {
+        "koa": "^2.7.0"
+    }
+}
